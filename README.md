@@ -4,7 +4,7 @@
 
 The Treasure Hunt Game is a web-based project I developed to showcase my web development skills. It's a simple yet engaging game where players solve puzzles and challenges to uncover hidden treasures. This project demonstrates my ability to create interactive web applications using Flask and HTML.
 
-![Treasure Hunt Logo](images/treasure_hunt_logo.png)
+![Treasure Hunt Logo]([images/treasure_hunt_logo.png](https://static.wikia.nocookie.net/mspaintadventures/images/2/2c/Defrosted_Frost_and_Frogs.png/revision/latest?cb=20121113170656))
 
 ## Features
 
@@ -59,7 +59,7 @@ Feel free to explore the code, customize the game challenges, or add your own fe
 **Screenshots:**
 
 - Challenge 1
-  ![Challenge 1](images/challenge1.png)
+  ![Challenge 1](.idea/1.jpg)
 
 - Challenge 2
   ![Challenge 2](images/challenge2.png)
