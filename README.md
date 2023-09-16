@@ -8,10 +8,13 @@ The Treasure Hunt Game is a web-based project I developed to showcase my web dev
 
 ## Features
 
-- A series of challenges and puzzles for players to solve.
-- User registration and login functionality.
-- MySQL database integration for storing user data and game statistics.
-- Responsive web design for seamless gameplay on various devices.
+- **Challenging Puzzles:** Engaging riddles, math challenges, and pattern recognition tasks.
+- **User Registration:** Create an account with username, email, and password.
+- **Database Integration:** Store user data and game statistics securely.
+- **Responsive Design:** Enjoy on desktop, tablet, or smartphone.
+- **Interactive Feedback:** Instant feedback with pop-up messages.
+- **Modular Structure:** Well-organized project for easy customization.
+- **Skill Showcase:** Demonstrates web development skills effectively.
 
 ## Project Structure
 
