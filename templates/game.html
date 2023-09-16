@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <script src="/static/popup.js"></script>
   <title>Treasure Hunt</title>
   <script>
     function redirectToWebsite() {
@@ -17,15 +16,15 @@
           window.open('/app/game3');
         } else if (latitude === 13 && longitude === 11) {
           window.open('/app/game4');
-        }else if (latitude === 40 && longitude === 50) {
+        } else if (latitude === 40 && longitude === 50) {
           window.open('https://www.youtube.com/watch?v=BBJa32lCaaY');
-        }else if (latitude === 64 && longitude === 87) {
+        } else if (latitude === 64 && longitude === 87) {
           window.open('/app/game5');
-        }else if (latitude === 90 && longitude === 90) {
+        } else if (latitude === 90 && longitude === 90) {
           window.open('/app/wrong');
-        }else if (latitude === 71 && longitude === 28) {
+        } else if (latitude === 71 && longitude === 28) {
           window.open('/app/end');
-        }else {
+        } else {
           popup1();
         }
         document.getElementById("latitude").value = "";
@@ -33,7 +32,13 @@
       }
     }
 
+    function popup1() {
+       alert("Beyond the void lies the promise of untold wonders, awaiting those who persist in their expedition.")
+    }
 
+    function popup2() {
+       alert("something's at (1,5)")
+    }
   </script>
 </head>
 <body>
@@ -50,9 +55,5 @@
   <br>
   <br>
   <a onclick="popup2()"><span style="color: blue; text-decoration: underline;">What to do?</span></a>
-
-
-
-
 </body>
 </html>
