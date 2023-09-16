@@ -59,7 +59,7 @@ Feel free to explore the code, customize the game challenges, or add your own fe
 **Screenshots:**
 
 - Challenge 1
-  ![Challenge 1](.idea/1.jpg)
+  ![Challenge 1](.idea/1.png)
 
 - Challenge 2
   ![Challenge 2](images/challenge2.png)
