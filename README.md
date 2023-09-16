@@ -58,19 +58,22 @@ Feel free to explore the code, customize the game challenges, or add your own fe
 
 **Screenshots:**
 
+- Staring Page
+  ![Starting Page](.idea/s.png)
+
 - Challenge 1
   ![Challenge 1](.idea/1.png)
 
 - Challenge 2
-  ![Challenge 2](images/challenge2.png)
+  ![Challenge 2](.idea/2.png)
 
 - Challenge 3
-  ![Challenge 3](images/challenge3.png)
+  ![Challenge 3](.idea/3.png)
 
 - Challenge 4
-  ![Challenge 4](images/challenge4.png)
+  ![Challenge 4](.idea/4.png)
 
 - Challenge 5
-  ![Challenge 5](images/challenge5.png)
+  ![Challenge 5](.idea/5.png)
 
 Enjoy the Treasure Hunt Game and have fun exploring!
